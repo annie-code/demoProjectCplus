@@ -6,11 +6,11 @@
 int main()
 {
     std::cout << "Hello World!\n";
-<<<<<<< HEAD
+
     std::cout << "Welcome Git!\n";
-=======
+
     std::cout << "Hello from git!\n";
->>>>>>> 4ccacc538754056ca3e807ff44a9a70cb3d4c982
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
